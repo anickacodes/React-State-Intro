@@ -1,0 +1,22 @@
+useState()
+
+events in REACT 
+
+on+EventName
+
+destructuring expedites our process
+
+a hook is a function we get from REACT library - 
+useState is 1 book(f) from the library 
+
+destructure arrays and set it to a function 
+
+usestate is a function / a hook 
+a single book from react library that gives us functionality to keep state of a variable 
+
+.jsx is a component
+
+
+synthetic event - because of Virtual DOM
+
+Sam On Demand 
